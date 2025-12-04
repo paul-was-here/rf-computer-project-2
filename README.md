@@ -3,7 +3,8 @@ Paul Kullmann & Adam Almoukamal
 
 ## Instructions for Running:
 **Part 1:**  
-For the 1D FDTD simulations in Part 1, download [CP2_RF_1005_2025.m](https://github.com/paul-was-here/rf-computer-project-2/blob/c688fb7653766b61941af9410c63405fb5a45fcf/CP2_RF_1005_2025.m) from the main branch and run the script. (Navigate to the three dots in the upper right corner > Download)  
+For the 1D FDTD simulations in Part 1, download [CP2_RF_1005_2025.m](https://github.com/paul-was-here/rf-computer-project-2/blob/c688fb7653766b61941af9410c63405fb5a45fcf/CP2_RF_1005_2025.m) from the main branch and run the script.  
+(Navigate to the three dots in the upper right corner > Download. An account is not needed to download files.)  
 
 Four figures are created showing the electric field at indices 480, 501, 560, and 620 respectively. Each of the three tissue conditions is plotted for the time window t=22.5ns to t=62.5ns.
 <img width="1784" height="1159" alt="part1_fig" src="https://github.com/user-attachments/assets/3fc1cf9b-50b5-4cf1-b14f-48e6fa289c72" />
